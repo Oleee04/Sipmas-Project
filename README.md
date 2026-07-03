@@ -6,7 +6,7 @@ Repository ini berisi project **Penetration Testing** untuk pembelajaran dan sim
 
 ## 🎯 Fitur
 
-- Simulasi **18 jenis kerentanan** aplikasi web.
+- Simulasi **15 jenis kerentanan** aplikasi web.
 - Mengikuti metodologi **OWASP Web Security Testing**.
 - Dokumentasi pengujian, analisis risiko, dan rekomendasi mitigasi.
 - Cocok sebagai media belajar penetration testing dasar.
@@ -35,7 +35,7 @@ Repository ini berisi project **Penetration Testing** untuk pembelajaran dan sim
 - Authorization Bypass
 - Open Redirect
 - Cryptography
-- API Security Testing
+
 
 ## 📚 Referensi
 
