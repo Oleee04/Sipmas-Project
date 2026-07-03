@@ -37,22 +37,6 @@ Repository ini berisi project **Penetration Testing** untuk pembelajaran dan sim
 - Cryptography
 - API Security Testing
 
-## 🚀 Menjalankan Project
-
-```bash
-git clone https://github.com/username/penetration-testing.git
-```
-
-1. Pindahkan project ke `htdocs/`
-2. Import database
-3. Konfigurasi `config/database.php`
-4. Jalankan Apache & MySQL
-5. Akses:
-
-```
-http://localhost/penetration-testing
-```
-
 ## 📚 Referensi
 
 - OWASP Top 10
